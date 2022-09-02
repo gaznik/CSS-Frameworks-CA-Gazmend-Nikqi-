@@ -1,0 +1,33 @@
+{
+  "name": "css-frameworks-ca-gazmend-nikqi-",
+  "version": "1.0.0",
+  "description": "CSS Frameworks Course Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "sass src/scss:dist/css",
+    "watch": "sass --watch src/scss:dist/css & live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaznik/CSS-Frameworks-CA-Gazmend-Nikqi-.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "sass",
+    "ca"
+  ],
+  "author": "Gaz <gazmendn93@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaznik/CSS-Frameworks-CA-Gazmend-Nikqi-/issues"
+  },
+  "homepage": "https://github.com/gaznik/CSS-Frameworks-CA-Gazmend-Nikqi-#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "sass": "^1.54.8"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
+}
