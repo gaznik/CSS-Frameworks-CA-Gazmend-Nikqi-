@@ -10762,4 +10762,8 @@ textarea.form-control-lg {
   max-width: 50%;
 }
 
+.container {
+  height: 100%;
+}
+
 /*# sourceMappingURL=styles.css.map */
